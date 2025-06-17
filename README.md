@@ -28,7 +28,7 @@ This application is tailored to support **multiple students** with secure logins
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/bijaylopchan/My_Android_Application.git
+   git clone https://github.com/bijaylopchan/ApplicationAndroid.git
 2. Open the project in Android Studio.
 3. Ensure you have an Android device or emulator running API level 28 or higher.
 4. Build and run the app.
